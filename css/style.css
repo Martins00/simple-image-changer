@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    place-items: center;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+#container {
+    background-image: url('');
+    background-size: cover;
+    padding: 15rem;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+button {
+    padding: 100px;
+    cursor: pointer;
+}
